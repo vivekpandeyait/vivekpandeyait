@@ -1,4 +1,4 @@
-<center><img src="https://github.com/vivekpandeyait/vivekpandeyait/blob/main/samart%20india.jpeg" height="50%" width="50%"/></center>
+<p align="center"><img src="https://github.com/vivekpandeyait/vivekpandeyait/blob/main/samart%20india.jpeg" height="50%" width="70%"/></p>
 <h1 align="center">Hi 👋, I'm Vivek Pandey</h1>
 <h3 align="center">Programmer | Full Stack Developer | Learners | Artist | Blogger | Youtuber | Content Creator</h3>
 
