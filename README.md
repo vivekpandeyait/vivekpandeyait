@@ -24,6 +24,7 @@
 <a href="https://fb.com/solutionwebtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="solutionwebtec" height="30" width="40" /></a>
 <a href="https://instagram.com/webtecsolution" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="webtecsolution" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCzyNGcqmRxZX_Ar0XvMvP-A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uczyngcqmrxzx_ar0xvmvp-a" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vivek-pandey-2107501b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
